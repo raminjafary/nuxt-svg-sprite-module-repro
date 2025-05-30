@@ -1,4 +1,4 @@
-Make sure to install dependencies:
+To reporduce memory leaks:
 
 ```bash
 pnpm install
