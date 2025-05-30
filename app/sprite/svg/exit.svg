@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Icons_24_x_24_out" width="24" height="24" data-name="Icons 24 x 24_out" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#606060}
+        </style>
+    </defs>
+    <path id="prefix__Rectangle_70" fill="none" d="M0 0H24V24H0z" data-name="Rectangle 70"/>
+    <path id="prefix__Path_175" d="M18 4.49h-6a2 2 0 0 0-2 1.93V8a.65.65 0 0 0 1.29 0V6.42a.7.7 0 0 1 .7-.68h6a.69.69 0 0 1 .69.68v11.17a.68.68 0 0 1-.19.46.69.69 0 0 1-.49.21h-6a.69.69 0 0 1-.7-.67v-1.51a.65.65 0 0 0-1.29 0v1.51a2 2 0 0 0 2 1.92h6a2 2 0 0 0 1.42-.51 1.91 1.91 0 0 0 .57-1.41V6.42a2 2 0 0 0-2-1.93z" class="prefix__cls-2" data-name="Path 175"/>
+    <path id="prefix__Path_176" d="M6.21 12.65h10.06a.63.63 0 1 0 0-1.26H6.06l2-2.23a.635.635 0 0 0-.48-1.05.66.66 0 0 0-.48.22l-2.86 3.19A.59.59 0 0 0 4 12a.62.62 0 0 0 .24.47l2.89 2.79a.64.64 0 0 0 .45.19.65.65 0 0 0 .64-.62.67.67 0 0 0-.22-.43z" class="prefix__cls-2" data-name="Path 176"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg id="Icons_zSpecial_Success" data-name="Icons / zSpecial / Success" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34A853;
+      }
+    </style>
+  </defs>
+  <g id="Group_60" data-name="Group 60">
+    <g id="Group_57" data-name="Group 57">
+      <g id="Group_56" data-name="Group 56">
+        <path id="Path_72" data-name="Path 72" class="cls-1" d="M27.314,4.686A16,16,0,0,0,4.686,27.314,16,16,0,0,0,27.314,4.686ZM16,30.125A14.125,14.125,0,1,1,30.125,16,14.14,14.14,0,0,1,16,30.125Z"/>
+      </g>
+    </g>
+    <g id="Group_59" data-name="Group 59">
+      <g id="Group_58" data-name="Group 58">
+        <path id="Path_73" data-name="Path 73" class="cls-1" d="M23.644,10.866a.938.938,0,0,0-1.326,0L14.04,19.145,9.682,14.787a.938.938,0,0,0-1.326,1.326l5.021,5.021a.938.938,0,0,0,1.325,0l8.942-8.942A.938.938,0,0,0,23.644,10.866Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

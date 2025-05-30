@@ -144,6 +144,16 @@
           </form>
         </div>
       </section>
+
+      <section class="icons-showcase">
+        <h2>Available Icons</h2>
+        <div class="icons-grid">
+          <div v-for="icon in icons" :key="icon" class="icon-item">
+            <svg-icon :name="icon.replace('.svg', '')" width="32" height="32" />
+            <span class="icon-name">{{ icon.replace('.svg', '') }}</span>
+          </div>
+        </div>
+      </section>
     </main>
   </div>
 </template>
@@ -154,6 +164,106 @@ const { locale } = useI18n();
 const switchLanguage = (lang) => {
   locale.value = lang;
 };
+
+// List of all SVG icons
+const icons = [
+  'whatsapp-outline-black',
+  'withdraw',
+  'workspacePremium',
+  'tick-blue',
+  'tick-circle-green',
+  'tick-disabled',
+  'tick',
+  'ticket',
+  'toolkit',
+  'trash-bin-black',
+  'trash-bin',
+  'two-way-dir',
+  'us',
+  'visa',
+  'wallet',
+  'warning-black',
+  'warning-yellow',
+  'warning',
+  'water',
+  'sort-and-filter',
+  'sort-icon',
+  'star',
+  'success',
+  'support-call-red',
+  'support-call',
+  'support',
+  'switch',
+  'telegram',
+  'terms',
+  'thumb-down',
+  'thumb-up',
+  'refresh-blue',
+  'refund',
+  'refundable-red',
+  'refundable',
+  'reload-btn',
+  'restaurant',
+  'scan',
+  'search-edit-dark',
+  'search-red',
+  'search',
+  'selected',
+  'setting',
+  'share',
+  'shoppingCart',
+  'sim-card',
+  'plane-arrival',
+  'plane-fly-thick',
+  'plane-fly',
+  'plane',
+  'plus-red',
+  'plus',
+  'plus_white',
+  'policy',
+  'pool',
+  'profile',
+  'recent',
+  'red-close',
+  'red-infant',
+  'red-person',
+  'new-seat',
+  'night',
+  'no-passengers',
+  'offline-payment',
+  'one-way-dir',
+  'online-payment',
+  'passengers',
+  'people',
+  'person',
+  'phone',
+  'pillar',
+  'plane-arrival-thick',
+  'iqd',
+  'lang',
+  'left-arrow',
+  'location',
+  'map-outline',
+  'map',
+  'mdi-airplane-off',
+  'meal',
+  'minus',
+  'mobile',
+  'more-options',
+  'morning',
+  'network-disrupted',
+  'network-restored',
+  'green-infant',
+  'green-person',
+  'history',
+  'hotel',
+  'hourglass-black',
+  'ic_outline-gpp-bad',
+  'ic_outline-leaderboard',
+  'infant',
+  'info',
+  'instagram'
+];
 </script>
 
 <style scoped>
@@ -371,5 +481,43 @@ const switchLanguage = (lang) => {
 
 .submit-button:hover {
   background: #0056b3;
+}
+
+.icons-showcase {
+  margin-top: 4rem;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.icons-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.icon-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.icon-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icon-name {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #666;
+  text-align: center;
+  word-break: break-word;
 }
 </style>

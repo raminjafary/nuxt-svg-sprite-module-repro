@@ -1,0 +1,19 @@
+<svg id="Icons_More_Options" data-name="Icons / More Options" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #606060;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-1" width="24" height="24"/>
+  <g id="Group_153" data-name="Group 153">
+    <path id="Path_103" data-name="Path 103" class="cls-2" d="M13.237,5.513a1.749,1.749,0,1,1-2.474,0,1.748,1.748,0,0,1,2.474,0"/>
+    <path id="Path_104" data-name="Path 104" class="cls-2" d="M13.237,10.763a1.749,1.749,0,1,1-2.474,0,1.748,1.748,0,0,1,2.474,0"/>
+    <path id="Path_105" data-name="Path 105" class="cls-2" d="M13.237,16.013a1.749,1.749,0,1,1-2.474,0,1.748,1.748,0,0,1,2.474,0"/>
+  </g>
+</svg>

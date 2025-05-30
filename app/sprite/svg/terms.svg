@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Icons_24_x_24_terms" width="24" height="24" data-name="Icons 24 x 24_terms" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#606060}
+        </style>
+    </defs>
+    <path id="prefix__Rectangle_75" fill="none" d="M0 0H24V24H0z" data-name="Rectangle 75"/>
+    <path id="prefix__Path_189" d="M6.86 8.31h2.73a.65.65 0 1 0 0-1.3H6.86a.65.65 0 0 0 0 1.3z" class="prefix__cls-2" data-name="Path 189"/>
+    <path id="prefix__Path_190" d="M6.86 10.14h2.73a.65.65 0 1 0 0-1.3H6.86a.65.65 0 0 0 0 1.3z" class="prefix__cls-2" data-name="Path 190"/>
+    <path id="prefix__Path_191" d="M6.86 12h2.73a.65.65 0 1 0 0-1.3H6.86a.65.65 0 0 0 0 1.3z" class="prefix__cls-2" data-name="Path 191"/>
+    <path id="prefix__Path_192" d="M6.86 13.8h2.73a.65.65 0 0 0 .65-.65.66.66 0 0 0-.65-.66H6.86a.66.66 0 0 0-.65.66.65.65 0 0 0 .65.65z" class="prefix__cls-2" data-name="Path 192"/>
+    <path id="prefix__Path_193" d="M6.86 15.66h2.73a.65.65 0 1 0 0-1.3H6.86a.65.65 0 0 0 0 1.3z" class="prefix__cls-2" data-name="Path 193"/>
+    <path id="prefix__Path_194" d="M11.13 8.31h2.73a.65.65 0 1 0 0-1.3h-2.73a.65.65 0 1 0 0 1.3z" class="prefix__cls-2" data-name="Path 194"/>
+    <path id="prefix__Path_195" d="M11.13 10.14h2.73a.65.65 0 1 0 0-1.3h-2.73a.65.65 0 1 0 0 1.3z" class="prefix__cls-2" data-name="Path 195"/>
+    <path id="prefix__Path_196" d="M11.13 12h1.31a.65.65 0 1 0 0-1.3h-1.31a.65.65 0 0 0 0 1.3z" class="prefix__cls-2" data-name="Path 196"/>
+    <path id="prefix__Path_197" d="M17 14.45a.66.66 0 0 0-.51.24L15.38 16l-.58-.41a.63.63 0 0 0-.39-.13.68.68 0 0 0-.53.27.65.65 0 0 0 .15.91l1.08.79a.69.69 0 0 0 .39.12.65.65 0 0 0 .5-.24l1.45-1.81a.65.65 0 0 0 .14-.48.61.61 0 0 0-.24-.44.65.65 0 0 0-.35-.13z" class="prefix__cls-2" data-name="Path 197"/>
+    <path id="prefix__Path_198" d="M18.53 13.2a4 4 0 0 0-2.14-1.13V6a2 2 0 0 0-2-2h-8a2 2 0 0 0-2 2v10.63a2 2 0 0 0 2 2h6.31a4 4 0 1 0 5.83-5.47zm-2.85 5.49a2.69 2.69 0 1 1 0-5.38h.05a2.69 2.69 0 1 1-.05 5.38zM5.63 6a.73.73 0 0 1 .73-.73h8a.73.73 0 0 1 .73.73v6a4 4 0 0 0-3.4 4 4.131 4.131 0 0 0 .23 1.361H6.36a.73.73 0 0 1-.73-.73z" class="prefix__cls-2" data-name="Path 198"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Icons_24_x_24_us" width="24" height="24" data-name="Icons 24 x 24_us" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#606060}
+        </style>
+    </defs>
+    <path id="prefix__Path_199" d="M12 4a8 8 0 1 0 8 8 8 8 0 0 0-8-8zm0 14.61A6.61 6.61 0 1 1 18.61 12 6.61 6.61 0 0 1 12 18.61z" class="prefix__cls-1" data-name="Path 199"/>
+    <path id="prefix__Path_200" d="M12 10.63a.71.71 0 0 0-.7.7v4a.7.7 0 1 0 1.4 0v-4a.71.71 0 0 0-.7-.7z" class="prefix__cls-1" data-name="Path 200"/>
+    <path id="prefix__Path_201" d="M12 8.2a.92.92 0 1 0 .91.92.92.92 0 0 0-.91-.92z" class="prefix__cls-1" data-name="Path 201"/>
+    <path id="prefix__Rectangle_76" fill="none" d="M0 0H24V24H0z" data-name="Rectangle 76"/>
+</svg>
